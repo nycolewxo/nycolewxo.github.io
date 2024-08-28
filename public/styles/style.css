@@ -1,0 +1,42 @@
+body {
+    font-family: "Courier New";
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+.information-name{
+    font-size: 150%;
+}
+.education-name{
+
+}
+section{
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+header, section {
+    margin-bottom: 20px;
+}
+h1, h2, h3 {
+    margin-bottom: 10px;
+    color: #333;
+}
+p {
+    margin: 0 0 10px;
+}
+.contact-info, .education-div, .experience-div, .project-div, .skills , .coursework{
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+.contact-info p, .education p, .experience p, .skills p , .coursework p{
+    margin: 5px 0;
+}
